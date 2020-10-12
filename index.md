@@ -1,9 +1,15 @@
-### Data analyst working currently on cloud ecosystem. Post graduate in International business, having diverse work experience. Proficient in data extraction using SQL and analysis in Python. Have delivered multiple use cases on dash boarding and finding insights through data driven techniques. Highly motivated to learn and evolve by adapting to latest trends in data analytics ecosystem.
-[https://www.linkedin.com/in/bala-murugan-damodaran-09b607139/] 
-![alt text] [logo] 
-[logo]: https://media-exp1.licdn.com/dms/image/C5603AQGnyXGBbgopow/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=2LyFk3aXYs-E_EmxSMadcWGo9kL8t7SAtz4W7YajG_w
-[balamurugandamodaran@gmail.com]
 
+[My_linkedin_id](https://www.linkedin.com/in/bala-murugan-damodaran-09b607139/) 
+
+[balamurugandamodaran@gmail.com](balamurugandamodaran@gmail.com)
+
+About me: 
+![alt text][logo]
+
+[logo]: https://media-exp1.licdn.com/dms/image/C5603AQGnyXGBbgopow/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=2LyFk3aXYs-E_EmxSMadcWGo9kL8t7SAtz4W7YajG_w "Logo Title Text 2"
+
+
+### Data analyst working currently on cloud ecosystem. Post graduate in International business, having diverse work experience. Proficient in data extraction using SQL and analysis in Python. Have delivered multiple use cases on dash boarding and finding insights through data driven techniques. Highly motivated to learn and evolve by adapting to latest trends in data analytics ecosystem.
 
 
 

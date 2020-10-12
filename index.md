@@ -18,7 +18,7 @@ Clustering, Anamoly detection
 
 
 
-###DATA ENGINEER INTERN TRANSCLOUD:
+### DATA ENGINEER INTERN TRANSCLOUD:
 RESPONSIBILITIES
 Developed solutions to create and update data through API based framework
 Developing solutions in an Agile environment
@@ -39,7 +39,7 @@ Contacting the clients and follow up the records which needs documentation
 
 
 
-###Customer support executive
+### Customer support executive
 RESPONSIBILITIES:
 Preparing reports on the activities of the Customer Care department or team.
 Answer calls professionally to provide information about products and services, take/ cancel orders, or

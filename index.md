@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+##Data analyst working currently on cloud ecosystem. Post graduate in International business, having diverse
+work experience. Proficient in data extraction using SQL and analysis in Python. Have delivered multiple use
+cases on dash boarding and finding insights through data driven techniques. Highly motivated to learn and
+evolve by adapting to latest trends in data analytics ecosystem.
 
-You can use the [editor on GitHub](https://github.com/balaleo23/Bala/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Languages 
+ Python, SQL.
+## Visualization:
+Tableau, matplotlib, seaborn.
+### Statistical / Machine Learning techniques
+Regression, Classification, Time series models,
+Clustering, Anamoly detection
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+###DATA ENGINEER INTERN TRANSCLOUD:
+RESPONSIBILITIES
+Developed solutions to create and update data through API based framework
+Developing solutions in an Agile environment
+Fast API framework was used for solutioning and tested using swagger API extension
+Understanding end to end integration
+Developing data pipelines for end user consumption.
+Analysis of the data to create dashboards as well as finding insights
+Solid interpersonal skills with a demonstrated ability to work as a productive member of a high-performing
+team
+Strong analytical capabilities to translate requirements into solutions
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Medical records representative
+RESPONSIBILITIES:
+Indexing the patients records which are eligible for Coding.
+Verifying the documents and sending back to the clients end which seem to be ineligible.
+Contacting the clients and follow up the records which needs documentation
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/balaleo23/Bala/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Customer support executive
+RESPONSIBILITIES:
+Preparing reports on the activities of the Customer Care department or team.
+Answer calls professionally to provide information about products and services, take/ cancel orders, or
+obtain details of complaints
+Follow up to ensure that appropriate actions were taken on customers' requests.

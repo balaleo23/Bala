@@ -1,6 +1,4 @@
-........................................................................................................Contact me..........................................:![alt text][logo]
-[logo]: https://media-exp1.licdn.com/dms/image/C5603AQGnyXGBbgopow/profile-displayphoto-shrink_200_200/0?e=1608163200&v=beta&t=2LyFk3aXYs-E_EmxSMadcWGo9kL8t7SAtz4W7YajG_w "Logo Title Text 2"
-
+  
 [My_linkedin_id](https://www.linkedin.com/in/bala-murugan-damodaran-09b607139/) 
 
 [balamurugandamodaran@gmail.com](balamurugandamodaran@gmail.com)

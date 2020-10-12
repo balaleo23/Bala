@@ -11,23 +11,23 @@ Data analyst working currently on cloud ecosystem. Post graduate in Internationa
 
 
 ### Languages 
-<p style="font-family: times new roman ; font-size:12pt; font-style:bold">
+<li style="font-family: times new roman ; font-size:12pt; font-style:bold">
  Python, SQL.
-</p>
+</li>
 ### Visualization:
-<p style="font-family: times new roman ; font-size:12pt; font-style:bold">
+<li style="font-family: times new roman ; font-size:12pt; font-style:bold">
 Tableau, matplotlib, seaborn.
-</p>
+</li>
 ### Statistical / Machine Learning techniques
-<p style="font-family: times new roman ; font-size:12pt; font-style:bold">
+<li style="font-family: times new roman ; font-size:12pt; font-style:bold">
 Regression, Classification, Time series models,
 Clustering, Anamoly detection
-</p>
+</li>
 
 
 
 ### DATA ENGINEER INTERN TRANSCLOUD:
-<p style="font-family: times new roman ; font-size:11pt; font-style:bold">
+<li style="font-family: times new roman ; font-size:11pt; font-style:bold">
 RESPONSIBILITIES  
 Developed solutions to create and update data through API based framework
 Developing solutions in an Agile environment
@@ -38,24 +38,24 @@ Analysis of the data to create dashboards as well as finding insights
 Solid interpersonal skills with a demonstrated ability to work as a productive member of a high-performing
 team
 Strong analytical capabilities to translate requirements into solutions
-</p>
+</li>
 
 
 ### Medical records representative:
-<p style="font-family: times new roman ; font-size:11pt; font-style:bold">
+<li style="font-family: times new roman ; font-size:11pt; font-style:bold">
 RESPONSIBILITIES:
 Indexing the patients records which are eligible for Coding.
 Verifying the documents and sending back to the clients end which seem to be ineligible.
 Contacting the clients and follow up the records which needs documentation
-</p>
+</li>
 
 
 
 ### Customer support executive:
-<p style="font-family: times new roman ; font-size:11pt; font-style:bold">
+<li style="font-family: times new roman ; font-size:11pt; font-style:bold">
 RESPONSIBILITIES:
 Preparing reports on the activities of the Customer Care department or team.
 Answer calls professionally to provide information about products and services, take/ cancel orders, or
 obtain details of complaints
 Follow up to ensure that appropriate actions were taken on customers' requests.
-</p>
+</li>

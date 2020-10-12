@@ -4,9 +4,9 @@
 [balamurugandamodaran@gmail.com](balamurugandamodaran@gmail.com)
                                                          
 
-
-**Data analyst working currently on cloud ecosystem. Post graduate in International business, having diverse work experience. Proficient in data extraction using SQL and analysis in Python. Have delivered multiple use cases on dash boarding and finding insights through data driven techniques. Highly motivated to learn and evolve by adapting to latest trends in data analytics ecosystem.**
-
+<p style="font-family: times new roman ; font-size:11pt; font-style:bold">
+Data analyst working currently on cloud ecosystem. Post graduate in International business, having diverse work experience. Proficient in data extraction using SQL and analysis in Python. Have delivered multiple use cases on dash boarding and finding insights through data driven techniques. Highly motivated to learn and evolve by adapting to latest trends in data analytics ecosystem.
+</p>
 
 
 ### Languages 

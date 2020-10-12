@@ -1,12 +1,12 @@
-# Data analyst working currently on cloud ecosystem. Post graduate in International business, having diverse work experience. Proficient in data extraction using SQL and analysis in Python. Have delivered multiple use cases on dash boarding and finding insights through data driven techniques. Highly motivated to learn and evolve by adapting to latest trends in data analytics ecosystem.
+## Data analyst working currently on cloud ecosystem. Post graduate in International business, having diverse work experience. Proficient in data extraction using SQL and analysis in Python. Have delivered multiple use cases on dash boarding and finding insights through data driven techniques. Highly motivated to learn and evolve by adapting to latest trends in data analytics ecosystem.
 
 
 
 
 
-## Languages 
+### Languages 
  Python, SQL.
-## Visualization:
+### Visualization:
 Tableau, matplotlib, seaborn.
 ### Statistical / Machine Learning techniques
 Regression, Classification, Time series models,

@@ -1,7 +1,7 @@
 
 
 
-[find me in linkedin](https://www.linkedin.com/in/bala-murugan-damodaran-09b607139)
+[My linkedin ID](https://www.linkedin.com/in/bala-murugan-damodaran-09b607139)
 
 [balamurugandamodaran@gmail.com](balamurugandamodaran@gmail.com)
                                                          

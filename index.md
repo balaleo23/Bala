@@ -1,7 +1,7 @@
 
 
-
 [My linkedin ID](https://www.linkedin.com/in/bala-murugan-damodaran-09b607139)
+
 
 [balamurugandamodaran@gmail.com](balamurugandamodaran@gmail.com)
                                                          
@@ -11,16 +11,16 @@ Data analyst working currently on cloud ecosystem. Post graduate in Internationa
 </p>
 
 
-### Languages 
-<li style="font-family: times new roman ; font-size:12pt; font-style:bold">
+### LANGUAGES
+<li style="font-family: times new roman ; font-size:14pt; font-style:bold">
  Python, SQL.
 </li>
-### Visualization:
-<li style="font-family: times new roman ; font-size:12pt; font-style:bold">
+### VISUALIZATION:
+<li style="font-family: times new roman ; font-size:14pt; font-style:bold">
 Tableau, matplotlib, seaborn.
-</li>
-### Statistical / Machine Learning techniques
-<li style="font-family: times new roman ; font-size:12pt; font-style:bold">
+</li> 
+### STATISTICAL/MACHINE LEARNING TECHNIQUES:
+<li style="font-family: times new roman ; font-size:14pt; font-style:bold">
 Regression, Classification, Time series models,
 Clustering, Anamoly detection
 </li>
@@ -28,7 +28,7 @@ Clustering, Anamoly detection
 
 
 ### DATA ENGINEER INTERN TRANSCLOUD:
-<li style="font-family: times new roman ; font-size:11pt; font-style:bold">
+<li style="font-family: times new roman ; font-size: 13pt; font-style:bold">
 RESPONSIBILITIES  
 Developed solutions to create and update data through API based framework
 Developing solutions in an Agile environment
@@ -42,8 +42,8 @@ Strong analytical capabilities to translate requirements into solutions
 </li>
 
 
-### Medical records representative:
-<li style="font-family: times new roman ; font-size:11pt; font-style:bold">
+#### Medical records representative:
+<li style="font-family: times new roman ; font-size:13pt; font-style:bold">
 RESPONSIBILITIES:
 Indexing the patients records which are eligible for Coding.
 Verifying the documents and sending back to the clients end which seem to be ineligible.
@@ -52,8 +52,8 @@ Contacting the clients and follow up the records which needs documentation
 
 
 
-### Customer support executive:
-<li style="font-family: times new roman ; font-size:11pt; font-style:bold">
+#### Customer support executive:
+<li style="font-family: times new roman ; font-size:13pt; font-style:bold">
 RESPONSIBILITIES:
 Preparing reports on the activities of the Customer Care department or team.
 Answer calls professionally to provide information about products and services, take/ cancel orders, or
